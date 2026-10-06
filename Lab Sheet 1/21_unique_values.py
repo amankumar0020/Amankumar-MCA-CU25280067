@@ -1,0 +1,1 @@
+print(df["Gender"].unique())
