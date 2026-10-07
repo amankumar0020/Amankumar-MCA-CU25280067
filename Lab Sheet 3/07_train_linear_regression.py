@@ -1,0 +1,13 @@
+
+# Q7: Train Linear Regression model
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.datasets import fetch_california_housing
+import pandas as pd
+data = fetch_california_housing()
+X = pd.DataFrame(data.data, columns=data.feature_names)[["MedInc"]]
+y = data.target
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+model = LinearRegression()
+model.fit(X_train, y_train)
+print("Model trained successfully.")
