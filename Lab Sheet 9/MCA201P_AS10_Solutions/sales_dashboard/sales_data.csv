@@ -1,0 +1,241 @@
+order_id,order_date,product,region,customer_segment,quantity,sales,profit
+ORD0001,2025-02-02,Monitor,South,Consumer,3,39872.86,7638.8
+ORD0002,2025-02-04,Keyboard,East,Consumer,4,6470.05,1331.34
+ORD0003,2025-11-03,Headphones,South,Corporate,3,8460.22,1548.38
+ORD0004,2025-10-28,Keyboard,West,Consumer,2,2754.51,464.78
+ORD0005,2025-11-10,Monitor,East,Consumer,2,25858.23,3535.44
+ORD0006,2025-12-21,Headphones,South,Corporate,4,10835.15,1204.24
+ORD0007,2025-07-01,Laptop,North,Corporate,3,164566.69,32775.42
+ORD0008,2025-12-20,Headphones,West,Consumer,2,4805.69,745.5
+ORD0009,2025-06-18,Laptop,South,Small Business,3,143219.36,26806.4
+ORD0010,2025-06-09,Laptop,West,Small Business,4,220496.54,28659.85
+ORD0011,2025-06-08,Monitor,South,Corporate,4,44951.92,8504.87
+ORD0012,2025-02-21,Monitor,West,Corporate,1,10226.5,2105.72
+ORD0013,2025-06-22,Monitor,West,Consumer,2,23704.19,4053.38
+ORD0014,2025-02-21,Mobile,West,Corporate,1,23111.46,3590.95
+ORD0015,2025-01-29,Monitor,East,Small Business,3,36578.66,6199.1
+ORD0016,2025-04-21,Keyboard,South,Corporate,1,1471.52,168.24
+ORD0017,2025-12-29,Mouse,North,Small Business,1,693.99,86.76
+ORD0018,2025-04-18,Headphones,West,Corporate,3,7628.32,1567.04
+ORD0019,2025-05-30,Headphones,West,Consumer,2,4500.46,376.39
+ORD0020,2025-02-02,Monitor,West,Corporate,3,35588.27,3765.36
+ORD0021,2025-12-09,Laptop,East,Consumer,2,102320.08,14423.39
+ORD0022,2025-04-21,Monitor,South,Consumer,3,34507.58,3244.54
+ORD0023,2025-05-04,Mouse,West,Small Business,2,1695.86,207.81
+ORD0024,2025-12-20,Mobile,East,Consumer,4,93725.9,14236.76
+ORD0025,2025-01-29,Laptop,West,Small Business,2,102620.22,11532.27
+ORD0026,2025-04-22,Monitor,North,Small Business,3,32509.15,7056.38
+ORD0027,2025-06-29,Monitor,South,Consumer,3,37374.94,6482.89
+ORD0028,2025-08-26,Keyboard,North,Corporate,1,1462.11,126.7
+ORD0029,2025-03-10,Mobile,North,Small Business,3,58147.38,10118.99
+ORD0030,2025-03-04,Mobile,East,Corporate,4,90140.01,12213.9
+ORD0031,2025-04-18,Laptop,West,Consumer,1,51723.93,10615.7
+ORD0032,2025-01-31,Mobile,North,Corporate,2,43877.33,10094.08
+ORD0033,2025-07-17,Headphones,South,Small Business,4,9494.71,1550.56
+ORD0034,2025-06-10,Mobile,East,Consumer,1,24153.53,5395.55
+ORD0035,2025-04-21,Keyboard,North,Consumer,2,3155.02,394.37
+ORD0036,2025-08-29,Monitor,East,Small Business,3,38901.39,3782.72
+ORD0037,2025-12-22,Mobile,North,Consumer,1,22362.03,3116.09
+ORD0038,2025-10-30,Headphones,East,Consumer,4,9451.42,2197.11
+ORD0039,2025-08-15,Keyboard,South,Corporate,4,6784.88,721.49
+ORD0040,2025-01-17,Mobile,North,Small Business,2,50499.36,11244.61
+ORD0041,2025-11-05,Mouse,West,Consumer,1,804.53,105.03
+ORD0042,2025-10-09,Headphones,East,Small Business,3,7215.73,686.32
+ORD0043,2025-05-19,Mobile,West,Consumer,1,20290.41,2021.76
+ORD0044,2025-10-31,Mouse,East,Small Business,1,723.02,127.18
+ORD0045,2025-01-17,Mobile,South,Corporate,2,47661.74,11223.97
+ORD0046,2025-07-02,Headphones,South,Consumer,1,2135.45,249.3
+ORD0047,2025-01-07,Monitor,North,Small Business,4,48091.15,9189.35
+ORD0048,2025-08-01,Headphones,North,Small Business,1,2728.09,530.52
+ORD0049,2025-10-29,Laptop,North,Small Business,2,117339.95,16851.49
+ORD0050,2025-04-20,Laptop,East,Consumer,2,109081.36,25405.02
+ORD0051,2025-12-17,Mouse,North,Small Business,2,1626.5,295.1
+ORD0052,2025-02-08,Monitor,North,Corporate,1,11708.81,2746.85
+ORD0053,2025-03-08,Mouse,West,Small Business,3,2376.51,488.52
+ORD0054,2025-01-07,Keyboard,South,Consumer,1,1648.24,342.0
+ORD0055,2025-05-02,Keyboard,East,Consumer,4,6661.93,1175.81
+ORD0056,2025-05-31,Laptop,West,Small Business,2,101687.52,18741.92
+ORD0057,2025-04-11,Headphones,North,Small Business,3,6907.49,1377.09
+ORD0058,2025-10-26,Mouse,South,Consumer,1,695.97,121.87
+ORD0059,2025-03-12,Monitor,South,Corporate,2,21435.88,4873.56
+ORD0060,2025-03-02,Laptop,East,Consumer,2,93192.74,9177.47
+ORD0061,2025-09-16,Laptop,North,Corporate,1,45032.76,7861.95
+ORD0062,2025-09-06,Monitor,East,Small Business,2,22689.54,3646.76
+ORD0063,2025-10-17,Mouse,North,Consumer,3,2170.68,255.88
+ORD0064,2025-04-02,Keyboard,North,Corporate,3,4386.95,385.53
+ORD0065,2025-12-04,Keyboard,North,Corporate,4,6600.23,582.89
+ORD0066,2025-12-04,Monitor,North,Small Business,1,13236.87,2970.68
+ORD0067,2025-04-28,Monitor,West,Small Business,3,37538.82,7681.92
+ORD0068,2025-02-19,Monitor,West,Corporate,3,36153.61,7852.98
+ORD0069,2025-10-14,Headphones,East,Corporate,3,6974.54,713.93
+ORD0070,2025-06-24,Laptop,East,Corporate,2,95656.18,13277.26
+ORD0071,2025-09-26,Mobile,South,Small Business,2,46451.81,5922.62
+ORD0072,2025-12-13,Monitor,South,Corporate,4,47725.11,6325.38
+ORD0073,2025-12-17,Mouse,East,Small Business,2,1746.11,288.52
+ORD0074,2025-08-20,Laptop,East,Small Business,2,111328.67,12511.64
+ORD0075,2025-07-03,Mouse,North,Corporate,4,3309.8,315.14
+ORD0076,2025-09-22,Keyboard,West,Small Business,1,1696.17,172.98
+ORD0077,2025-03-03,Monitor,East,Small Business,2,26034.89,5394.91
+ORD0078,2025-12-12,Laptop,East,Corporate,2,106810.37,10169.19
+ORD0079,2025-03-03,Mobile,East,Small Business,1,22478.04,3474.15
+ORD0080,2025-07-10,Monitor,North,Corporate,4,52309.12,8303.79
+ORD0081,2025-02-20,Mouse,North,Corporate,4,2832.42,266.34
+ORD0082,2025-08-29,Monitor,East,Corporate,2,25975.11,4867.66
+ORD0083,2025-09-27,Mouse,West,Corporate,4,2979.71,412.01
+ORD0084,2025-04-25,Mobile,East,Corporate,1,19675.37,4521.01
+ORD0085,2025-09-27,Headphones,East,Corporate,1,2539.74,583.59
+ORD0086,2025-10-12,Keyboard,North,Small Business,2,2888.72,687.11
+ORD0087,2025-11-05,Mouse,North,Consumer,2,1768.26,321.7
+ORD0088,2025-02-14,Headphones,North,Corporate,3,7918.72,649.08
+ORD0089,2025-09-21,Monitor,South,Consumer,2,23701.55,3573.49
+ORD0090,2025-04-21,Keyboard,South,Small Business,4,6506.33,635.63
+ORD0091,2025-01-17,Mouse,South,Corporate,3,2642.57,256.4
+ORD0092,2025-12-31,Laptop,East,Small Business,3,163025.85,15401.14
+ORD0093,2025-11-12,Laptop,North,Small Business,1,46431.14,9485.09
+ORD0094,2025-03-14,Laptop,North,Consumer,4,217751.19,18680.01
+ORD0095,2025-02-27,Laptop,East,Consumer,4,226812.46,26802.08
+ORD0096,2025-11-07,Mobile,North,Small Business,1,23986.36,5479.62
+ORD0097,2025-11-05,Monitor,West,Consumer,4,41378.18,4646.15
+ORD0098,2025-02-15,Monitor,North,Small Business,3,38648.03,6987.64
+ORD0099,2025-06-13,Laptop,East,Consumer,4,188845.79,23288.73
+ORD0100,2025-09-17,Keyboard,North,Corporate,4,6200.78,550.13
+ORD0101,2025-01-02,Laptop,West,Corporate,1,55269.42,5952.54
+ORD0102,2025-02-03,Monitor,East,Small Business,1,13728.1,2105.47
+ORD0103,2025-04-03,Keyboard,East,Corporate,4,5361.23,1240.4
+ORD0104,2025-04-20,Headphones,South,Small Business,3,7949.5,1461.73
+ORD0105,2025-02-27,Laptop,East,Consumer,2,101005.87,15743.48
+ORD0106,2025-02-13,Mouse,East,Corporate,1,746.74,96.14
+ORD0107,2025-10-14,Keyboard,East,Small Business,2,2920.63,424.68
+ORD0108,2025-03-21,Mouse,South,Corporate,3,2268.27,194.55
+ORD0109,2025-06-24,Headphones,North,Corporate,1,2554.34,435.58
+ORD0110,2025-09-14,Keyboard,North,Small Business,3,4705.78,614.55
+ORD0111,2025-05-06,Keyboard,South,Small Business,1,1556.71,214.37
+ORD0112,2025-07-07,Monitor,West,Corporate,3,40173.15,9134.14
+ORD0113,2025-09-25,Keyboard,West,Corporate,2,2833.01,606.21
+ORD0114,2025-06-30,Laptop,West,Consumer,1,45324.12,9731.95
+ORD0115,2025-01-29,Mobile,South,Consumer,3,59525.29,7751.56
+ORD0116,2025-09-29,Mouse,South,Corporate,1,878.52,190.68
+ORD0117,2025-09-16,Laptop,East,Corporate,1,46066.89,6375.06
+ORD0118,2025-12-16,Laptop,West,Small Business,4,224979.35,29191.93
+ORD0119,2025-02-22,Monitor,South,Small Business,4,50028.8,4088.17
+ORD0120,2025-03-18,Monitor,South,Small Business,3,32368.51,3448.71
+ORD0121,2025-12-02,Mouse,East,Corporate,4,3525.51,840.66
+ORD0122,2025-02-21,Keyboard,West,Small Business,2,2903.32,269.45
+ORD0123,2025-01-16,Headphones,South,Consumer,2,4476.01,487.65
+ORD0124,2025-11-28,Mouse,North,Corporate,1,735.88,93.26
+ORD0125,2025-12-30,Keyboard,South,Small Business,3,3938.56,468.64
+ORD0126,2025-11-04,Mouse,West,Small Business,3,2507.39,469.46
+ORD0127,2025-08-13,Laptop,South,Small Business,3,157849.88,21176.04
+ORD0128,2025-11-05,Mobile,South,Corporate,2,47545.88,10285.24
+ORD0129,2025-06-07,Mouse,East,Corporate,2,1768.13,237.8
+ORD0130,2025-07-02,Mouse,West,Small Business,3,2115.59,304.15
+ORD0131,2025-08-18,Keyboard,North,Consumer,2,2854.97,315.92
+ORD0132,2025-01-10,Keyboard,North,Corporate,4,5906.77,763.19
+ORD0133,2025-07-26,Laptop,South,Small Business,2,110334.64,20015.05
+ORD0134,2025-12-25,Monitor,East,Small Business,3,35757.06,7216.82
+ORD0135,2025-07-08,Monitor,West,Consumer,2,26030.44,5692.55
+ORD0136,2025-02-11,Keyboard,West,Corporate,3,4419.12,744.61
+ORD0137,2025-06-02,Mouse,West,Small Business,1,749.17,147.89
+ORD0138,2025-10-01,Keyboard,East,Small Business,2,2661.48,230.36
+ORD0139,2025-12-18,Headphones,West,Consumer,4,9894.92,2339.82
+ORD0140,2025-05-31,Laptop,East,Small Business,4,182092.72,30750.7
+ORD0141,2025-04-08,Mouse,West,Small Business,2,1377.75,192.38
+ORD0142,2025-01-18,Headphones,East,Small Business,1,2631.48,510.83
+ORD0143,2025-01-03,Mouse,East,Small Business,3,2616.63,229.83
+ORD0144,2025-03-27,Laptop,West,Corporate,3,172760.26,13945.21
+ORD0145,2025-04-06,Monitor,North,Corporate,3,34934.64,7800.96
+ORD0146,2025-09-03,Mobile,West,Small Business,1,24328.36,3300.99
+ORD0147,2025-11-26,Mobile,East,Corporate,3,63959.41,7929.18
+ORD0148,2025-11-20,Mouse,South,Small Business,1,700.35,94.34
+ORD0149,2025-06-05,Monitor,West,Corporate,3,33800.71,4910.25
+ORD0150,2025-02-19,Laptop,East,Corporate,3,179286.75,34448.33
+ORD0151,2025-01-23,Headphones,West,Consumer,2,4995.37,507.02
+ORD0152,2025-05-14,Laptop,South,Corporate,1,47350.87,3921.93
+ORD0153,2025-12-18,Keyboard,South,Small Business,4,5856.69,1367.38
+ORD0154,2025-10-02,Keyboard,South,Consumer,3,4209.13,940.82
+ORD0155,2025-07-24,Mobile,West,Consumer,4,88779.91,17646.86
+ORD0156,2025-08-04,Keyboard,South,Consumer,3,4229.17,501.66
+ORD0157,2025-03-06,Laptop,West,Consumer,2,97237.3,16514.62
+ORD0158,2025-10-17,Keyboard,West,Small Business,4,5889.1,919.88
+ORD0159,2025-08-03,Monitor,West,Corporate,2,26898.39,5541.45
+ORD0160,2025-03-09,Mobile,South,Small Business,3,58117.5,10720.79
+ORD0161,2025-10-12,Keyboard,South,Small Business,4,5164.52,1206.24
+ORD0162,2025-02-07,Mobile,West,Corporate,1,20324.04,1839.02
+ORD0163,2025-04-07,Keyboard,South,Corporate,4,5191.73,508.04
+ORD0164,2025-05-21,Monitor,West,Consumer,1,12713.48,1438.19
+ORD0165,2025-06-29,Headphones,South,Corporate,1,2126.25,208.23
+ORD0166,2025-11-11,Laptop,North,Consumer,1,52127.41,8252.83
+ORD0167,2025-05-30,Headphones,West,Consumer,3,8267.71,1005.81
+ORD0168,2025-04-28,Keyboard,South,Consumer,1,1490.94,282.27
+ORD0169,2025-09-29,Mobile,West,Small Business,1,19020.56,2923.9
+ORD0170,2025-09-17,Mobile,North,Small Business,1,19012.67,1941.44
+ORD0171,2025-02-02,Laptop,North,Small Business,4,178752.09,17464.21
+ORD0172,2025-08-15,Headphones,East,Small Business,1,2551.91,445.13
+ORD0173,2025-06-30,Laptop,West,Small Business,2,107716.52,11422.15
+ORD0174,2025-10-10,Mouse,East,Corporate,4,2964.09,672.87
+ORD0175,2025-12-20,Keyboard,West,Consumer,4,5750.76,1208.27
+ORD0176,2025-04-27,Keyboard,East,Corporate,4,6181.32,708.48
+ORD0177,2025-08-21,Mobile,North,Corporate,4,75587.64,10237.33
+ORD0178,2025-01-07,Monitor,South,Small Business,1,12810.66,2476.23
+ORD0179,2025-10-29,Mobile,West,Small Business,1,22619.28,2265.64
+ORD0180,2025-02-22,Monitor,North,Small Business,3,32467.79,5232.73
+ORD0181,2025-04-07,Laptop,North,Corporate,4,238768.48,41436.41
+ORD0182,2025-02-16,Keyboard,North,Corporate,4,6684.68,1108.27
+ORD0183,2025-03-08,Mobile,North,Corporate,3,67872.44,8630.72
+ORD0184,2025-08-31,Mouse,North,Consumer,4,2737.43,479.91
+ORD0185,2025-11-06,Mouse,South,Corporate,4,3306.34,557.34
+ORD0186,2025-05-25,Monitor,South,Small Business,3,38438.31,6561.81
+ORD0187,2025-09-19,Mouse,South,Consumer,1,803.5,65.88
+ORD0188,2025-10-18,Headphones,West,Small Business,3,7292.91,693.2
+ORD0189,2025-08-28,Headphones,East,Consumer,1,2237.03,523.13
+ORD0190,2025-03-07,Monitor,North,Consumer,1,13292.34,3004.24
+ORD0191,2025-05-06,Headphones,East,Corporate,4,11135.1,1566.13
+ORD0192,2025-07-08,Laptop,West,Corporate,3,166817.16,34243.16
+ORD0193,2025-06-12,Laptop,West,Corporate,4,230811.73,47938.58
+ORD0194,2025-02-06,Laptop,North,Small Business,1,55800.17,4670.61
+ORD0195,2025-12-27,Headphones,East,Corporate,4,11162.71,1597.84
+ORD0196,2025-04-27,Headphones,North,Corporate,3,7682.23,1117.48
+ORD0197,2025-07-30,Mouse,South,Corporate,3,2181.65,306.2
+ORD0198,2025-05-24,Monitor,North,Corporate,1,10786.34,2044.33
+ORD0199,2025-01-09,Mouse,North,Corporate,3,2111.23,423.43
+ORD0200,2025-11-18,Headphones,South,Corporate,2,4553.13,499.58
+ORD0201,2025-01-21,Headphones,South,Consumer,2,4317.76,678.05
+ORD0202,2025-12-17,Mobile,North,Consumer,3,65911.03,6440.21
+ORD0203,2025-02-19,Mobile,West,Consumer,2,48972.58,10982.72
+ORD0204,2025-12-26,Keyboard,South,Consumer,4,6815.4,623.55
+ORD0205,2025-12-10,Mobile,East,Small Business,1,19340.05,4164.45
+ORD0206,2025-08-14,Headphones,South,Consumer,3,6746.95,813.15
+ORD0207,2025-02-08,Mouse,East,Small Business,2,1712.86,218.16
+ORD0208,2025-05-16,Mouse,North,Consumer,2,1724.81,351.13
+ORD0209,2025-08-09,Mouse,North,Corporate,2,1790.14,171.97
+ORD0210,2025-04-07,Mobile,North,Corporate,4,79538.59,11626.22
+ORD0211,2025-03-09,Mobile,East,Small Business,4,97275.23,21393.94
+ORD0212,2025-05-04,Keyboard,South,Consumer,3,4160.35,495.78
+ORD0213,2025-01-14,Mouse,West,Consumer,1,866.57,141.1
+ORD0214,2025-06-29,Headphones,South,Consumer,3,7582.28,1133.78
+ORD0215,2025-05-12,Laptop,West,Consumer,1,51719.68,12025.49
+ORD0216,2025-03-01,Headphones,West,Consumer,3,6842.36,824.57
+ORD0217,2025-05-19,Laptop,West,Consumer,1,49215.91,8726.01
+ORD0218,2025-06-19,Mouse,West,Small Business,2,1615.31,177.62
+ORD0219,2025-02-22,Monitor,East,Small Business,4,47550.13,4967.1
+ORD0220,2025-12-03,Monitor,North,Small Business,2,20760.77,2798.23
+ORD0221,2025-08-29,Keyboard,West,Consumer,1,1632.14,185.92
+ORD0222,2025-12-04,Keyboard,East,Small Business,2,3125.11,251.16
+ORD0223,2025-04-13,Mobile,North,Corporate,4,86898.12,8745.84
+ORD0224,2025-02-25,Monitor,East,Consumer,3,34843.62,7926.8
+ORD0225,2025-06-01,Monitor,South,Consumer,3,37727.47,6638.2
+ORD0226,2025-06-22,Keyboard,North,Small Business,4,5716.88,619.47
+ORD0227,2025-12-26,Mouse,North,Small Business,3,2363.74,526.64
+ORD0228,2025-10-01,Mobile,North,Consumer,4,88829.32,16486.66
+ORD0229,2025-05-12,Mouse,South,Small Business,3,2571.73,371.62
+ORD0230,2025-07-25,Laptop,South,Corporate,3,156418.12,35215.01
+ORD0231,2025-03-11,Keyboard,South,Consumer,2,2917.34,438.79
+ORD0232,2025-02-15,Monitor,East,Corporate,1,12602.96,2330.07
+ORD0233,2025-04-22,Laptop,South,Small Business,4,189143.33,38680.61
+ORD0234,2025-11-11,Monitor,West,Consumer,1,12604.26,1269.22
+ORD0235,2025-10-07,Laptop,South,Small Business,2,109451.78,24698.05
+ORD0236,2025-03-15,Mouse,East,Corporate,3,2545.0,591.63
+ORD0237,2025-09-30,Mobile,East,Corporate,2,41630.48,9832.31
+ORD0238,2025-05-26,Headphones,East,Small Business,3,6427.26,925.59
+ORD0239,2025-12-18,Keyboard,South,Consumer,2,3392.34,734.91
+ORD0240,2025-04-28,Mouse,West,Corporate,3,2392.67,433.44

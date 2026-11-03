@@ -1,0 +1,14 @@
+Selected model: Random Forest\n\n                    precision    recall  f1-score   support
+
+           Allergy       1.00      0.95      0.98        44
+         Arthritis       0.91      0.98      0.95        44
+COVID-like Illness       0.95      0.95      0.95        44
+       Common Cold       0.94      1.00      0.97        44
+               Flu       1.00      0.93      0.96        44
+    Food Poisoning       1.00      0.91      0.95        44
+         Gastritis       1.00      0.98      0.99        44
+          Migraine       0.91      1.00      0.96        43
+
+          accuracy                           0.96       351
+         macro avg       0.97      0.96      0.96       351
+      weighted avg       0.97      0.96      0.96       351

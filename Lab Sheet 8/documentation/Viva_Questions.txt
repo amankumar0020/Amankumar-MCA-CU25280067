@@ -1,0 +1,13 @@
+VIVA QUESTIONS – QUICK REVISION
+1. Deep learning: learning patterns with multi-layer neural networks.
+2. MNIST: handwritten digit image dataset for digits 0–9.
+3. Normalization: scales pixel values to 0–1.
+4. ReLU: hidden-layer activation; softmax: output class probabilities.
+5. Dropout: regularization method to reduce overfitting.
+6. Reinforcement learning: agent learns by rewards and penalties.
+7. Q-learning: model-free method that learns state-action values.
+8. Q-table: stores estimated value for each state-action pair.
+9. Epsilon-greedy: balances exploration and exploitation.
+10. Alpha: learning rate; gamma: discount factor.
+11. Learning curve: visualizes performance during training.
+12. Supervised learning uses labels; RL uses reward feedback.
